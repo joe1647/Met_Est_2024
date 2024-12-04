@@ -5,4 +5,4 @@ Repositorio del curso de Métodos estadísticos Agosto 2024 del programa de Inge
 ## Contenido
 
 + :paperclip:Semana 1: Introducción al curso de Métodos Estadísticos.
-+ Semana 2: Crear cuenta de Github (ngjoe1647) así como el primer repositorio
++ Semana 2: Crear cuenta de Github (joe1647) así como el primer repositorio
