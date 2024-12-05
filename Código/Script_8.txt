@@ -1,0 +1,45 @@
+#José Luis Gojon Villarreal
+#20/18/24
+#Regresión Lineal
+
+GEYSER <- read.csv("erupciones.csv", header = T)
+
+plot(GEYSER$waiting, GEYSER$eruptions, pch = 19,
+     col = "orange",
+     xlab= "Tiempo espera (min)",
+     ylab = "Duración (min)")
+
+
+range(GEYSER$erupciones)
+range(GEYSER$waiting)
+
+cor.test(GEYSER)
+
+#Revisar si existe relación entre dos variables
+cor.test(GEYSER,erupcion, GEYSER$waiting) 
+
+#La pregunta: podemos predecir el tiempo de la erupción en base
+#Al tiempo de espera entre dos erupciones consecuitiva
+
+Im <-(GEYSER$erupcions)~(GEYSER$waiting)
+gy.lm < lm(GEYSER$erupcions)~(GEYSER$waiting)
+
+#La pregunta: Podemos predecir el tiempio de la erupción en base
+#Al tiemp l de espera entre dos erupciones consecutivas
+
+#tendencuia central
+
+plot(GEYSER$waiting, GEYSER$eruptions,
+     pch-19, col = "black",
+     xlab = "Tiempo espera (min)",
+     ylab = "Duración (min)")
+abline(gy.lm, col = "darkred", lwd = 2)
+text(50, 4, "y=-1.87+0.075*x")
+#agregar en la tabla el valor predicho
+GEYSER$predicho <- gy.lm$4fitted values
+GEYSER$yprima <- -1.874016 + 0.075628*GEYSER$waiting
+GEYSER$residual <- gy.lm$residuals^2
+
+
+yprima <- c(70, 75, 82)
+-1.87+0.075*yprima
