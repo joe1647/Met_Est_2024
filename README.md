@@ -3,11 +3,11 @@
 Repositorio del curso de Métodos estadísticos Agosto 2024 del programa de Ingeniero Forestal 2024
 
 ## Contenido
-+Tareas
-+Scripts
-+Exámenes
-+Práctica
-+Laboratorios
+-Tareas
+-Scripts
+-Exámenes
+-Práctica
+-Laboratorios
 
 
 + :paperclip:Semana 1: introducción al curso.
