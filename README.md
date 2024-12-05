@@ -8,13 +8,13 @@ Repositorio del curso de Métodos estadísticos Agosto 2024 del programa de Inge
 +Exámenes
 +Laboratorios
 
-+ :paperclip:Semana 1: Introducción al curso de Métodos Estadísticos.
-+ Semana 2: Crear cuenta de Github (joe1647) así como el primer repositorio
-+ Semana 3: introducción de los maestros 
-+ Semana 4: intrduccion de los maestros
-+ Semana 6: se realizaron boxplot en rstudio, y se aplicaria un examen. 
-+ Semana 8: se presento el primer parcial
++ :paperclip:Semana 1: introducción de los maestros
++ Semana 2: Introducción al curso de Métodos Estadísticos
++ Semana 3: Intrduccion de los maestros
++ Semana 4: Crear cuenta de Github (joe1647) y primer repositorio 
++ Semana 6: Se realizaron gráficas boxplot en rstudio 
++ Semana 8: se presento el primer examen
 + semana 9: clase de pruba de t
-+ semana 10: realizacion ddel psedostrobus, aplicando la prueba de t.test, shapiro, regresion.
-+ semana 11: se realizaron la aplicacion de cuartetos
-+ semana 13: repaso del segundo parcial
++ semana 10: Creación de script donde se aplico la prueba de t, shapiro y regresion.
++ semana 11: se utilizaron los cuartiles
++ semana 13: repaso para segundo examen
