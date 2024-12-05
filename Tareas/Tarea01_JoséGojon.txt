@@ -1,0 +1,50 @@
+#Problema 1
+
+1-Qualitativa
+2-Quantitativa
+3-Quantitativa
+4-Quantitativa
+5-Qualitativa
+6-Qualitativa
+7-Quantitativa
+8-Quantitativa
+9-Qualitativa
+10-Quantitativa
+11-Quantitativa
+
+#Problema 2
+
+#Objeto: Tenaza (Havardia pallens)
+#Variables quantitativas:
+1-Color
+2-Calidad de sus hojas (Perenes o anuales)
+#Variables quantitativas:
+1-Altura
+2-Diámetro
+
+#Problema 3
+
+#Qualitativa, no hay forma númerica de comparar las diferencias entre, las plataformas 
+#de comunicación nombradas.
+
+#Problema 4
+
+I-
+  1-Estudiantes de universidades públicas
+  2-Horas de trabajo
+  3-Quantitativo
+II-
+  1-Estudiantes universitarios de México
+  2-Estudiantes universitarios de México inscritos a una universidad pública
+  3-Quantitativa
+III-
+  1-Estudiantes de universidades públicas
+  2-Calificaciones en el examén CENEVAL de estudiantes de universidades públicas mujeres
+  y hombres
+  3-Quantitativa
+IV-
+  1-Atletas
+  2-Asesoramiento académico para atletas universitarios y no universitarios
+  3-Quantitativa
+V-
+  #Los datos de la pregunta 1, porque sus datos son continuos. 
