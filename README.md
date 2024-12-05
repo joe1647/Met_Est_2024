@@ -25,3 +25,6 @@ Repositorio del curso de Métodos estadísticos Agosto 2024 del programa de Inge
 + Semana 16: Se realizó un script sobre analisís de varianzas
 + Semana 17: Se repaso.
 + Semana 18: Se presento el Exámen final (ANOVA y Tukey).
+
+  ![image](https://github.com/user-attachments/assets/bb62fd14-33f5-4a79-ab5f-d9c2c428043a)
+
