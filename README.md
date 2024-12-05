@@ -3,14 +3,14 @@
 Repositorio del curso de Métodos estadísticos Agosto 2024 del programa de Ingeniero Forestal 2024
 
 ## Contenido
--Tareas
--Scripts
--Exámenes
--Práctica
--Laboratorios
+:paperclip:Tareas
+:paperclip:Scripts
+:paperclip:Exámenes
+:paperclip:Práctica
+:paperclip:Laboratorios
 
 
-+ :paperclip:Semana 1: introducción al curso.
++ Semana 1: introducción al curso.
 + Semana 2: Se crearon las cuentas de Github (joe1647) y los repositorios .
 + Semana 3: Introducción al curso de Métodos Estadísticos.
 + Semana 4: Se realizó el laboratorio 1.
